@@ -1,7 +1,10 @@
 {
-  "name": "@brainhubeu/react-carousel",
+  "name": "@mercteil/react-carousel",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
   "version": "1.18.6",
-  "description": "Carousel component for React",
+  "description": "Carousel component for React forked from @brainhubeu/react-carousel",
   "engines": {
     "npm": ">=6.14.5"
   },
@@ -96,7 +99,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/brainhubeu/react-carousel"
+    "url": "https://github.com/mercteil/react-carousel"
   },
   "main": "./lib/react-carousel.js"
 }
